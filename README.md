@@ -1,2 +1,15 @@
-# EmployeeAPI-SpringBoot
-A RESTful API built with Spring Boot and MySQL to manage employee data, supporting CRUD operations and seamless integration with an Android app
+# Employee Management API (Spring Boot)
+
+This is a RESTful API built with Spring Boot and MySQL to manage employee data. It provides endpoints for adding, retrieving and deleting employee records.
+
+## 🚀 Features
+- Create, Read, Update, and Delete (CRUD) employee records
+- MySQL database integration
+- RESTful API design
+- Spring Boot with JPA and Hibernate
+
+## 🛠 Tech Stack
+- Java (Spring Boot)
+- MySQL
+- Hibernate & JPA
+- Spring Data REST
